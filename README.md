@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DevTinder Project**
 
-- 💬 Ask me about **HTML, CSS, JS, ReactJs, NodeJs, MongoDB**
+- 💬 Ask me about **HTML, CSS, JS, ReactJs, NodeJs, MongoDB, Express**
 
 - 📫 How to reach me **nynishuyadav85@gmail.com**
 
