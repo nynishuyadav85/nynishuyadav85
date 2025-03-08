@@ -2,7 +2,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/nynishu15" target="blank"><img src="https://img.shields.io/twitter/follow/nynishu15?logo=twitter&style=for-the-badge" alt="nynishu15" /></a> </p>
-
+<h3>Project</h3>
+- 🔭 Built a AIAgent**
+<a href= "https://bronze-forthcoming-alpaca.app.genez.io/">AIAGENT</a> <br/>
+---------------------------------------------------------------------------------------------------------- <br/>
 - 🔭 I’m currently working on **DevTinder Project and lerning Latex coding**
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJs, NodeJs, MongoDB, Express Js, Typescript**
