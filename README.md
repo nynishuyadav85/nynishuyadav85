@@ -3,10 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/nynishu15" target="blank"><img src="https://img.shields.io/twitter/follow/nynishu15?logo=twitter&style=for-the-badge" alt="nynishu15" /></a> </p>
 <h3>Project</h3>
-- 🔭 Portfolio ↔️
+          - 🔭 Portfolio 📽️
 <a href= "https://react-portfolio-nishant.vercel.app/">Portfoilo</a> <br/>
-
-- 🔭 Built a AIAgent ↔️
+    - 🔭 Built a AIAgent ↔️
 <a href= "https://bronze-forthcoming-alpaca.app.genez.io/">AIAGENT</a> <br/>
 ---------------------------------------------------------------------------------------------------------- <br/>
 - 🔭 I’m currently working on **DevTinder Project and lerning Latex coding**
