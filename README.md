@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Nishant Yadav</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/nynishu15" target="blank"><img src="https://img.shields.io/twitter/follow/nynishu15?logo=twitter&style=for-the-badge" alt="nynishu15" /></a> </p>
 <h3>Project</h3>
