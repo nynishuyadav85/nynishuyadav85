@@ -2,9 +2,8 @@
 <h3 align="center">Passionate Full stack developer</h3>
 
 <p align="left"> <a href="https://twitter.com/nynishu15" target="blank"><img src="https://img.shields.io/twitter/follow/nynishu15?logo=twitter&style=for-the-badge" alt="nynishu15" /></a> </p>
-<h3>Project</h3>
-          - 🔭 Portfolio 📽️
-<a href= "https://react-portfolio-nishant.vercel.app/">Portfoilo</a> <br/>
+<h3>Project</h3> 
+<br/>
     - 🔭 Built a AIAgent ↔️
 <a href= "https://bronze-forthcoming-alpaca.app.genez.io/">AIAGENT</a> <br/>
 ---------------------------------------------------------------------------------------------------------- <br/>
