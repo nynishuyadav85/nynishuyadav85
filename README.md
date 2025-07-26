@@ -5,6 +5,8 @@
 
 <h3>Project</h3> 
 <br/>
+    - Portfolio 
+    <a href= "https://react-portfolio-nishant.vercel.app/">Portfolio</a> <br/>
     - 🔭 Built a AIAgent ↔️
 <a href= "https://bronze-forthcoming-alpaca.app.genez.io/">AIAGENT</a> <br/>
 ---------------------------------------------------------------------------------------------------------- <br/>
